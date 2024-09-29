@@ -58,13 +58,13 @@ public class jfrCrud extends javax.swing.JPanel {
 
         jLabel1.setText("Carpintería Max");
 
-        jLabel2.setText("jLabel2");
+        jLabel2.setText("Nombre");
 
-        jLabel3.setText("jLabel3");
+        jLabel3.setText("Edad");
 
-        jLabel4.setText("jLabel4");
+        jLabel4.setText("Peso");
 
-        jLabel5.setText("jLabel5");
+        jLabel5.setText("Correo");
 
         txtCorreo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -86,7 +86,7 @@ public class jfrCrud extends javax.swing.JPanel {
 
         btnLimpiar.setText("Limpiar");
 
-        jLabel7.setText("jLabel7");
+        jLabel7.setText("Buscar");
 
         tbCarpintero.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
@@ -203,15 +203,7 @@ public class jfrCrud extends javax.swing.JPanel {
  
     
     
-    public static void initjfrCrud() {
-        mdlCarpintero modelo = new mdlCarpintero();
-        jfrCrud jfrCrud = new jfrCrud();
-        ctrlCarpintero controlador = new ctrlCarpintero (modelo, jfrCrud);
-      //  frmAdministrarUsuarios.setVisible(true); 
-       
-        
-    }
-    
+
     
     
     

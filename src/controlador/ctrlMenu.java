@@ -41,7 +41,6 @@ public class ctrlMenu implements MouseListener, KeyListener {
             // Inicialización perezosa (solo se crea la primera vez)
             if (jfrCrud == null) {
                 jfrCrud = new jfrCrud();
-                jfrCrud.initjfrCrud();
             }
             // Cambiar el panel contenido
             cambiarPanel(vista.jPContenedor, jfrCrud);

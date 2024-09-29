@@ -28,6 +28,7 @@ public class jfrGaleria extends javax.swing.JPanel {
 
         jLabel1 = new javax.swing.JLabel();
 
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/vista/Carpintero}.jpeg"))); // NOI18N
         jLabel1.setText("jLabel1");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
@@ -35,16 +36,16 @@ public class jfrGaleria extends javax.swing.JPanel {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(96, 96, 96)
-                .addComponent(jLabel1)
-                .addContainerGap(266, Short.MAX_VALUE))
+                .addGap(207, 207, 207)
+                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 676, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(559, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(166, Short.MAX_VALUE)
-                .addComponent(jLabel1)
-                .addGap(118, 118, 118))
+            .addGroup(layout.createSequentialGroup()
+                .addGap(55, 55, 55)
+                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 628, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(558, Short.MAX_VALUE))
         );
     }// </editor-fold>//GEN-END:initComponents
 

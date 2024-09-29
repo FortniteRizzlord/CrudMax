@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/informatica1/Desktop/CRUD-JAVA-Completo-de-Ejemplo-master/src/vistas/jfrMeu.java</file>
-            <file>file:/C:/Users/informatica1/Desktop/CRUD-JAVA-Completo-de-Ejemplo-master/src/modelo/mdlEstudiantes.java</file>
-            <file>file:/C:/Users/informatica1/Desktop/CRUD-JAVA-Completo-de-Ejemplo-master/src/controlador/ctrlMenu.java</file>
-            <file>file:/C:/Users/informatica1/Desktop/CRUD-JAVA-Completo-de-Ejemplo-master/src/controlador/ctrlEstudiantes.java</file>
-            <file>file:/C:/Users/informatica1/Desktop/CRUD-JAVA-Completo-de-Ejemplo-master/src/vistas/jfrCrud.java</file>
+            <file>file:/C:/Users/informatica1/Desktop/Crud2/src/vista/jfrCrud.java</file>
+            <file>file:/C:/Users/informatica1/Desktop/Crud2/src/vista/jfrGaleria.java</file>
+            <file>file:/C:/Users/informatica1/Desktop/Crud2/src/controlador/ctrlCarpintero.java</file>
+            <file>file:/C:/Users/informatica1/Desktop/Crud2/src/vista/jfrMenu.java</file>
+            <file>file:/C:/Users/informatica1/Desktop/Crud2/src/controlador/ctrlMenu.java</file>
+            <file>file:/C:/Users/informatica1/Desktop/Crud2/src/modelo/mdlCarpintero.java</file>
         </group>
     </open-files>
 </project-private>
